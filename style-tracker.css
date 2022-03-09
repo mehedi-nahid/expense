@@ -1,0 +1,102 @@
+body{
+				align-items: center;
+				justify-content: center; 
+				font-family: 'Roboto', sans-serif;
+}
+h1{
+				text-align: center;
+}
+h2{
+				text-align: center;
+}
+
+.in-exbox{
+				border: 2px solid #cbcbcb;
+}
+.inbox{
+				border: 2px solid #cbcbcb;
+				text-align: center;
+}
+.inbox h5{
+				color : green;
+}
+.exbox{
+				border: 2px solid #cbcbcb;
+				text-align: center;
+}
+.exbox h5{
+				color: red;
+}
+ul{
+				list-style-type: none;
+				margin: auto;
+				justify-content: center;
+				text-align: center;
+}
+ul li{
+				margin-right: 30px;
+				list-style-type: decimal;
+				list-style-position: inside;
+}
+ul span{
+				margin-right: 5px;
+}
+.Btn-j{
+	 margin-top: 10px;
+}
+
+.amt-j{
+				margin-top: -20px;
+}
+#inBtn{
+				background: green;
+				padding: 5px;
+				color: white;
+				width: 50%;
+				align-content: center;
+				text-align: center;
+				justify-content: center;
+				margin: auto;
+				
+}
+#exBtn{
+				background: red;
+				padding: 5px;
+				color: white;
+				width: 50%;
+				align-content: center;
+				text-align: center;
+				justify-content: center;
+				margin: auto;
+				}
+				
+#amount,#name{
+				width: 75%;
+				
+}
+.list-items{
+				margin: auto;
+				justify-content: center;
+}
+
+/*.income-class{
+				color: green;
+}
+.expense-class{
+				color: red;
+}*/
+.pine{
+				text-align: left;
+				font-size: 20px;
+}
+ul span{
+			margin-left: 100px ;
+			display: inline-block;
+}
+ul div{
+				position: relative;
+				bottom: 26px;
+}
+ul li{
+				margin-left: -90px;
+}
